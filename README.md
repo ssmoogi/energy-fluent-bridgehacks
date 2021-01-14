@@ -1,6 +1,6 @@
 # energy-fluent-bridgehacks
 BridgeHacks Hackathon Project 2020 \
-🔗 [Devpost Submission](https://devpost.com/software/energy-fluent)
+🔗 [Devpost Submission](https://devpost.com/software/energy-fluent) \
 🎥 [Video Demo](https://youtu.be/OmRMiAzd9U8)
 
 ### inspiration
